@@ -1,0 +1,10 @@
+*~
+*.dll
+*.dylib
+*.exe
+*.out
+*.so
+*.swp
+*.test
+.idea/
+RULEBOOK.adoc

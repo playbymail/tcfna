@@ -1,0 +1,14 @@
+*.adoc  text eol=lf
+*.css   text eol=lf
+*.go    text eol=lf
+*.html  text eol=lf
+*.js    text eol=lf
+*.json  text eol=lf
+*.jsx   text eol=lf
+*.md    text eol=lf
+*.psv   text eol=lf
+*.sh    text eol=lf
+*.txt   text eol=lf
+LICENSE text eol=lf
+go.mod  text eol=lf
+go.sum  text eol=lf
